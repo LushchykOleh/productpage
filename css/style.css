@@ -239,8 +239,7 @@ img{
 
 
 .product-color label {
-    display: inline-block;
-    vertical-align: top;
+    display: block;
     width: 24px;
     height: 20px;
     border-radius: 4px;
